@@ -1,0 +1,8 @@
+/*Ejercicio 1, llamar a estilos css desde un archivo*/
+h1{
+    text-decoration: underline; /*Subrayado*/
+    text-align: center; /*Sirve para centrar el texto*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /*Fuente de Letra*/
+    color: saddlebrown; /*Color de letra*/
+    background-color: aquamarine; /*Fondo de página*/
+}
