@@ -18,3 +18,12 @@ document.write(continente);
 
 let varlet = "Esto es una variable Let";
 document.write="<br>"+varlet;
+
+//6- Es una variable que no puede cambiar de valor
+// y se define con la palabra const
+
+const web="https://www.utic.edu.py";
+console.log(web);
+const constweb="https://www.uticvirtual.edu.py/login/index.php";
+constweb="Otra página";
+console.log(constweb);
